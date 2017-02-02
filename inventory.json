@@ -1,0 +1,46 @@
+{
+    "cars": [
+        {
+          "make": "Nissan",
+          "model": "Rogue",
+          "year": "2006",
+          "price": "89",
+          "description": "This is an immaculate 2006 Nissan Rogue with only 25000 miles on it. Leather seats, power everything."
+        },
+        {
+          "make": "Nissan",
+          "model": "Rogue",
+          "year": "2004",
+          "price": "899",
+          "description": "This is an immaculate 2004 Nissan Rogue with only 25000 miles on it. Leather seats, power everything."
+        },
+        {
+          "make": "Nissan",
+          "model": "Rogue",
+          "year": "2001",
+          "price": "89999",
+          "description": "This is an immaculate 2001 Nissan Rogue with only 25000 miles on it. Leather seats, power everything."
+        },
+        {
+          "make": "Nissan",
+          "model": "Rogue",
+          "year": "2002",
+          "price": "8",
+          "description": "This is an immaculate 2002 Nissan Rogue with only 25000 miles on it. Leather seats, power everything."
+        },
+        {
+          "make": "Nissan",
+          "model": "Rogue",
+          "year": "2009",
+          "price": "8999",
+          "description": "This is an immaculate 2009 Nissan Rogue with only 25000 miles on it. Leather seats, power everything."
+        },
+        {
+          "make": "Nissan",
+          "model": "Rogue",
+          "year": "2002",
+          "price": "899999",
+          "description": "This is an immaculate 2002 Nissan Rogue with only 25000 miles on it. Leather seats, power everything."
+        }
+    ]
+}
