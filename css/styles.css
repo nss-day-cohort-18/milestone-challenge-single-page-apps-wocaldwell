@@ -1,3 +1,19 @@
-.black-border {
-    border: 5px solid black;
+.car-card {
+    margin: 1%;
 }
+
+/* card styling */
+
+.black-border {
+    border: 2px solid black;
+}
+
+.big-border {
+    border: 5px solid red;
+}
+
+.pink {
+    background-color: pink;
+}
+
+

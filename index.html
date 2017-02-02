@@ -4,13 +4,18 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <title>Used Cars</title>
+        <link rel="stylesheet" type="text/css" href="/dist/css/bootstrap.min.css">
         <link rel="stylesheet" href="css/styles.css">
     </head>
     <body>
-        <nav id="site-nav">
-            <input type="text" />
+        <nav id="site-nav" class="navbar navbar-default">
+            <div class="container-fluid">
+                <input type="text" id="editor"class="form-control" placeholder="Edit Description" />
+            </div>
         </nav>
-        <div id="inventory-container" class="container"></div>
+        <div id="inventory-containers-container" class="container"></div>
+        <script type="text/javascript" src="/dist/jquery.min.js"></script>
+        <script type="text/javascript" src="/dist/js/bootstrap.min.js"></script>
         <script type="text/javascript" src="javascripts/inventory.js"></script>
         <script type="text/javascript" src="javascripts/card-changer.js"></script>
         <script type="text/javascript" src="javascripts/event-handler.js"></script>
